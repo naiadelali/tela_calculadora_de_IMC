@@ -81,7 +81,6 @@ class _HomeState extends State<Home> {
               ),
             ],
           ),
-          centerTitle: true,
           backgroundColor: Theme.of(context).primaryColor,
           actions: <Widget>[
             IconButton(
